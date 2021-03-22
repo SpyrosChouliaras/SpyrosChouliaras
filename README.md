@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpyrosChouliaras
+- 👋 Hi, I’m SpyrosChouliaras
 - 👀 I’m interested in Artificial intelligence, Machine Learning, Deep Learning and Cloud Computing.
 - 🌱 I’m currently learning Advanced methods for Cloud System Optimization, Anomaly Detection and Performance Modeling. 
 - 💞️ I’m looking to collaborate on AI-ML-DL projects. 
