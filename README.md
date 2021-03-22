@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Spyros
+- 👋 Hi, I’m Spyros.
 - 👀 I’m interested in Artificial intelligence, Machine Learning, Deep Learning Big Data and Cloud Computing.
 - 🌱 My research focuses on advanced methods for Cloud System Optimization, Anomaly Detection and Performance Modeling. 
 - 💞️ I’m looking to collaborate on AI-ML-DL projects. 
