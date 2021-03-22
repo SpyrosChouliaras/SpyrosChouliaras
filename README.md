@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Spyros
 - 👀 I’m interested in Artificial intelligence, Machine Learning, Deep Learning and Cloud Computing.
-- 🌱 I’m currently learning Advanced methods for Cloud System Optimization, Anomaly Detection and Performance Modeling. 
+- 🌱 I’m currently researching methods for Cloud System Optimization, Anomaly Detection and Performance Modeling. 
 - 💞️ I’m looking to collaborate on AI-ML-DL projects. 
 - 📫 You can reach me at https://www.linkedin.com/in/spyroschouliaras/
 
